@@ -8,7 +8,7 @@ module.exports = {
     ip: "1337:1337", // Ip servera z którego bedzie pobieralo ilosc graczy do statusu np: 123.123.213.213:12312
     token: "815227360185024512", // token bota
     refreshInteval: "20000", // nie ruszaj
-    weryfikacjarola: "832167166391484436", // ustaw role ktora daje po uzyciu verify
+    weryfikacjarola: "ODE1MjI3MzYwMTg1MDI0NTEy.YDpVpA.6ZN-dzJFgdVOCK6o0ykUY7etFy0", // ustaw role ktora daje po uzyciu verify
 }
 
 // RedLeaks discord.gg/49263TE8g8
